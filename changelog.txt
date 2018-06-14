@@ -29,4 +29,4 @@ VERSION 1.1.5:
 - Added Main Screen/Title Screen.
 - Added confirmation dialog when trying to exit the game.
 - You can't reset the game without using Debug Mode. To restart the game, try re-execute/re-run the game.
-- Rebuilt a lot of things.s
+- Rebuilt a lot of things.
