@@ -40,6 +40,12 @@ VERSION 1.2.5:
 - Password for Debug Mode has changed.
 
 -------------------------------------------
-VERSION 1.2.8:
+VERSION 1.2.8a:
 - Added save and load feature. Now you can save your progress!
 - Fixed bug where shop does not take input immediately.
+
+-------------------------------------------
+VERSION 1.2.8b:
+- Rebuilt the UI.
+- Fixed bug where you still get damaged although you do not input (1, 2, 3, 4) when it's your turn.
+- [!] This might be the last release of TSG.
